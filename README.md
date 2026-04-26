@@ -1,2 +1,17 @@
-# password-strength-checker
-CLI tool that evaluates password strength based on length, symbols, numbers, and letter case. Helps quickly determine if a password is weak, medium, or strong.
+# Password Strength Checker 🔑
+
+Simple CLI tool to check how strong your password is.
+
+## How to use
+
+```bash
+python password_checker.py
+```
+
+Enter a password and get strength feedback.
+
+## Features
+
+* Checks length
+* Checks numbers, symbols, upper/lowercase
+* Simple scoring system
